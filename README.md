@@ -1,6 +1,6 @@
 # [DiffusioGS: Regularizing 3D Gaussians with Denoising Diffusion Models]
 ## Jiaxing Sun, Qianxu Wang, Tingyang Zhang
-## Ordered by name, equal contribution
+### Ordered by name, equal contribution
 
 ## Quickstart
 
