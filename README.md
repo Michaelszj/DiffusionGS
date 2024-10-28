@@ -1,13 +1,14 @@
 # [DiffusioGS: Regularizing 3D Gaussians with Denoising Diffusion Models]
-
+## Jiaxing Sun, Qianxu Wang, Tingyang Zhang
+## Ordered by name, equal contribution
 
 ## Quickstart
 
-This section will walk you through setting up DiffusioNeRF and using it to fit a NeRF to a scene from LLFF.
+This section will walk you through setting up DiffusioGS and using it to fit a NeRF to a scene from LLFF.
 
 ### Hardware requirements
 
-You will need a relatively powerful graphics card to run DiffusioGS. All of our experiments were performed on an A100.
+You will need a relatively powerful graphics card to run DiffusioGS. All of our experiments were performed on an RTX4090.
 
 ### Conda environment
 ### & Downloading the pretrained diffusion model 
