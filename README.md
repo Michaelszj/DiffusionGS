@@ -4,11 +4,11 @@
 
 ## Quickstart
 
-This section will walk you through setting up DiffusioGS and using it to fit a NeRF to a scene from LLFF.
+This section will walk you through setting up DiffusionGS and using it to fit a NeRF to a scene from LLFF.
 
 ### Hardware requirements
 
-You will need a relatively powerful graphics card to run DiffusioGS. All of our experiments were performed on an RTX4090.
+You will need a relatively powerful graphics card to run DiffusionGS. All of our experiments were performed on an RTX4090.
 
 ### Conda environment
 ### & Downloading the pretrained diffusion model 
